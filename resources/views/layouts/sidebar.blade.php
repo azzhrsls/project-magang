@@ -111,7 +111,7 @@
                     </ul>
                 </li>
             </ul>
-            
+
                 <li class="nav-item">
                 <a class="nav-link " href="{{ url('')}}">
                     <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
@@ -121,7 +121,7 @@
                 </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ url('')}}">
+                    <a class="nav-link" href="{{ url('/lihatgudang')}}">
                         <div class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                         <i class="ni ni-cart text-primary text-sm opacity-10"></i>
                         </div>
